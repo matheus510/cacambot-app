@@ -1,0 +1,25 @@
+{
+  "name": "cacambot-app",
+  "version": "1.0.0",
+  "description": "cacambot-site backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test:dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheus510/cacambot-app.git"
+  },
+  "keywords": [
+    "SPA"
+  ],
+  "author": "Matheus de Sousa Monteiro Fonseca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheus510/cacambot-app/issues"
+  },
+  "homepage": "https://github.com/matheus510/cacambot-app#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
